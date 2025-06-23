@@ -45,7 +45,8 @@ dist 目录下面是编译好的可执行文件
 | key | value |
 | --- | --- |
 | gospider007_fingerproxy_spec | fp 指纹 |
-| gospider007_proxy_spec | 代理 |
+| gospider007_fingerproxy_proxy | 代理 |
+
 
 ## quick start
 ```bash
