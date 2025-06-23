@@ -31,7 +31,7 @@ It provides unified support for HTTP/1, HTTP/2, HTTP/3, uTLS, and uQUIC protocol
   - [x] 对http2 指纹进行模拟
   - [x] 通过 header 实现请求级别的动态指纹伪装
   - [x] 对 header 指纹进行模拟
-  - [ ] 通过 header 实现请求级别的代理切换
+  - [x] 通过 header 实现请求级别的代理切换
   - [ ] 对 QUIC 指纹进行模拟
   - [ ] 对 websocket 指纹进行模拟
   - [ ] 开放插件功能,允许开发者对app 进行定制化开发
