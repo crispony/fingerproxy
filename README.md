@@ -40,17 +40,16 @@ It provides unified support for HTTP/1, HTTP/2, HTTP/3, uTLS, and uQUIC protocol
 ```
 dist 目录下面是编译好的可执行文件
 ```
+## key table
 
-## 配置文件
-```yaml
-proxy: "" #代理
-spec: "" #默认指纹
-```
+| key | value |
+| --- | --- |
+| gospider007_fingerproxy_spec | fp 指纹 |
+| gospider007_proxy_spec | 代理 |
+
 ## quick start
 ```bash
-./dist/myapp_darwin_arm64_v8.0/myapp --config config.yaml 
-./myapp -config config.yaml #配置文件的启动方式
-./myapp  #默认配置文件启动方式
+./dist/myapp_darwin_arm64_v8.0/myapp 
 ```
 ```bash
 listening on: 127.0.0.1:8080
