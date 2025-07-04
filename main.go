@@ -9,7 +9,7 @@ import (
 // goreleaser build --snapshot --clean
 func main() {
 	cli, err := proxy.NewClient(proxy.ClientOption{
-		Addr: "127.0.0.1:8080",
+		Addr: "127.0.0.1:443",
 	})
 	if err != nil {
 		log.Fatalf("error: %v", err)
