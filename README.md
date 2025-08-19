@@ -40,11 +40,12 @@ It provides unified support for HTTP/1, HTTP/2, HTTP/3, uTLS, and uQUIC protocol
 ```
 dist 目录下面是编译好的可执行文件
 ```
-## key table
+## headers key table
 
 | key | value |
 | --- | --- |
 | gospider007_fingerproxy_spec | fp 指纹 |
+| gospider007_fingerproxy_proxy | ip 代理 |
 
 
 ## quick start
