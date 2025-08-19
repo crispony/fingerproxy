@@ -21,6 +21,8 @@
 With just a few lines of code, you can enable powerful fingerprint proxy capabilities.
 It provides unified support for HTTP/1, HTTP/2, WebSockets protocols.</h2>
 
+## The fingerprints used in the project are generated from: [fp](https://github.com/gospider007/fp)
+
 * True forward proxy transmission, implemented no differently from an IP proxy server
 * Simultaneous support for HTTP, HTTPS, and SOCKS5 proxy protocols on the same port
 * Automatic upgrade to HTTP/2
