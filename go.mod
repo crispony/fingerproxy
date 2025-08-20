@@ -2,7 +2,7 @@ module fingerproxy
 
 go 1.25
 
-require github.com/gospider007/proxy v0.0.0-20250729014201-eed4bdeb7dff
+require github.com/gospider007/proxy v0.0.0-20250819100401-4537af83bf02
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
@@ -28,17 +28,17 @@ require (
 	github.com/gospider007/bar v0.0.0-20250815030902-4f5b5d6312cf // indirect
 	github.com/gospider007/blog v0.0.0-20250815030743-f2af6b9013ab // indirect
 	github.com/gospider007/bs4 v0.0.0-20250815030800-a352d3ad57ee // indirect
-	github.com/gospider007/gson v0.0.0-20250718004537-ff15820964bd // indirect
-	github.com/gospider007/gtls v0.0.0-20250718003831-90cdeb97a23f // indirect
-	github.com/gospider007/http1 v0.0.0-20250729080302-0419175456ec // indirect
-	github.com/gospider007/http2 v0.0.0-20250729081659-a0f2ab33dc98 // indirect
-	github.com/gospider007/http3 v0.0.0-20250729013804-e1c3cbcf998f // indirect
+	github.com/gospider007/gson v0.0.0-20250819094627-31f516e714bd // indirect
+	github.com/gospider007/gtls v0.0.0-20250818100212-f466fa4cc860 // indirect
+	github.com/gospider007/http1 v0.0.0-20250820001757-7e2103027e4b // indirect
+	github.com/gospider007/http2 v0.0.0-20250820001924-b6e8432bd4b1 // indirect
+	github.com/gospider007/http3 v0.0.0-20250819094613-7dfd55495d56 // indirect
 	github.com/gospider007/ja3 v0.0.0-20250815031055-0948dc3bbe0b // indirect
 	github.com/gospider007/kinds v0.0.0-20250815031133-b2282666f69c // indirect
 	github.com/gospider007/re v0.0.0-20250815031101-a57caeff73bf // indirect
-	github.com/gospider007/requests v0.0.0-20250729081221-01bdec09872e // indirect
-	github.com/gospider007/tools v0.0.0-20250718003809-7c62cd0ee920 // indirect
-	github.com/gospider007/websocket v0.0.0-20250718010025-4c017acfd478 // indirect
+	github.com/gospider007/requests v0.0.0-20250819100159-d067e96b8150 // indirect
+	github.com/gospider007/tools v0.0.0-20250819094836-a81233312764 // indirect
+	github.com/gospider007/websocket v0.0.0-20250819094917-c00c0a99815f // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.18.0 // indirect
@@ -75,7 +75,7 @@ require (
 	go.uber.org/zap/exp v0.3.0 // indirect
 	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
 	golang.org/x/crypto v0.41.0 // indirect
-	golang.org/x/exp v0.0.0-20250813145105-42675adae3e6 // indirect
+	golang.org/x/exp v0.0.0-20250819193227-8b4c13bb791b // indirect
 	golang.org/x/image v0.30.0 // indirect
 	golang.org/x/mod v0.27.0 // indirect
 	golang.org/x/net v0.43.0 // indirect
@@ -83,6 +83,5 @@ require (
 	golang.org/x/sys v0.35.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
 	golang.org/x/tools v0.36.0 // indirect
-	google.golang.org/protobuf v1.36.7 // indirect
 	gopkg.in/errgo.v2 v2.1.0 // indirect
 )
